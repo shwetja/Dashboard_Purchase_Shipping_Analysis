@@ -1,10 +1,10 @@
 # Dashboard_Purchase_Shipping_Analysis
 
 # 1. Project Title
-# Customer Purchase Behavior and Shipping Analysis 
+ Customer Purchase Behavior and Shipping Analysis 
 
 # 2. Project Problem Statement
-# Online retail companies generate huge volumes of customer transaction data every day. However, understanding customer purchasing patterns, product performance,    seasonal demand, customer demographics, and regional sales trends is difficult without proper visualization.
+ Online retail companies generate huge volumes of customer transaction data every day. However, understanding customer purchasing patterns, product performance,    seasonal demand, customer demographics, and regional sales trends is difficult without proper visualization.
 
 # The company needs a dashboard that can:
       •	Track overall revenue and customer ratings.
@@ -42,25 +42,21 @@
 
 # 5. Dashboard KPIs Analysis
 # Total Revenue KPI ($57.6K)
-KPI Card Used:
-A KPI card provides a quick summary of overall business performance.
-
-# Business Insight
+      KPI Card Used: A KPI card provides a quick summary of overall business performance.
+# Insights
 •	Company generated $57.6K revenue.
 •	Revenue exceeded target by approximately 15%.
 
 # Average Rating KPI (3.8)
-
-# Business Insight
+# Insights
 •	Rating is below target (4.0).
 •	Product quality and customer service improvements are needed.
 
 # 6. Product Revenue Analysis
-# Chart: Purchase Value by Product
-Horizontal Bar Chart Used:
-•	Easy comparison of many products.
-•	Long product names fit easily.
-•	Shows ranking clearly.
+     Purchase Value by Product: Horizontal Bar Chart
+      •	Easy comparison of many products.
+      •	Long product names fit easily.
+      •	Shows ranking clearly.
 
 # Insights
 # Top revenue-generating products:
@@ -77,12 +73,10 @@ Horizontal Bar Chart Used:
 •	Run promotions for low-selling products.
 
 # 7. Average Rating by State
-# Chart: Filled Map
-Map Used:
-Data is geographical.
-# It allows management to:
-•	Identify high-rating regions.
-•	Compare customer satisfaction across states.
+      Filled Map Used: Data is geographical.
+      It allows management to:
+      •	Identify high-rating regions.
+      •	Compare customer satisfaction across states.
 
 # Insights
 •	Some states have higher customer satisfaction.
@@ -101,9 +95,7 @@ Data is geographical.
 •	Expand logistics in high-revenue regions.
 
 # 9. Total Purchase Value by Season
-Waterfall Chart:
-Shows incremental contribution of each season to total sales.
-
+      Waterfall Chart: Shows incremental contribution of each season to total sales.
 # Insights
 •	Summer and Winter contribute strongly.
 •	Seasonal demand impacts revenue.
@@ -112,9 +104,7 @@ Shows incremental contribution of each season to total sales.
 •	Launch seasonal marketing campaigns.
 
 # 10. Total Purchase Value by Month
-Chart: Line Chart:
-Line charts are best for trend analysis over time.
-
+      Line Chart: Line charts are best for trend analysis over time.
 # Insights
 •	Revenue peaks in July.
 •	Revenue drops in August and September.
@@ -124,9 +114,7 @@ Line charts are best for trend analysis over time.
 •	Offer promotions during low-demand months.
 
 # 11. Revenue by Payment Method
-Chart: Clustered Column Chart
-Best for comparing categories.
-
+      Clustered Column Chart: Best for comparing categories.
 # Insights
 # Highest Revenue:
 •	Credit Card
@@ -138,9 +126,7 @@ Best for comparing categories.
 •	Optimize payment gateway experience.
 
 # 12. Customer Count by Color
-Chart: Treemap
-Treemaps efficiently show many categories in limited space.
-
+      Treemap: Treemaps efficiently show many categories in limited space.
 # Insights
 Popular Colors:
 •	Olive
@@ -151,9 +137,7 @@ Popular Colors:
 •	Use color preference in product design.
 
 # 13. Customer Gender Split
-Chart: Donut Chart:
-Best for showing simple proportion.
-
+      Donut Chart: Best for showing simple proportion.
 # Insights
 •	Female: ~54%
 •	Male: ~46%
@@ -161,11 +145,9 @@ Best for showing simple proportion.
 •	Target marketing campaigns based on gender distribution.
 
 # 14. Revenue Category by Age Group
-Chart: Stacked Area Chart
-# Shows:
-•	Trend over age groups.
-•	Contribution of multiple categories simultaneously.
-
+      Stacked Area Chart Shows:
+      • Trend over age groups.
+      • Contribution of multiple categories simultaneously.
 # Insights
 •	Middle-aged customers generate significant revenue.
 •	High-spending customers are concentrated in certain age groups.
@@ -173,10 +155,7 @@ Chart: Stacked Area Chart
 •	Develop age-specific marketing campaigns.
 
 # 15. Purchase by Size
-Chart: Donut Chart
-# Shows:
-Proportional distribution among sizes.
-
+      Donut Chart Shows: Proportional distribution among sizes.
 # Insights
 # Most Popular Size:
 •	M (44.79%)
@@ -187,15 +166,14 @@ Proportional distribution among sizes.
 •	Reduce excess stock for XL size.
 
 # 16. Dashboard Filters (Slicers)
-Used Filters:
-•	Category
-•	Season
-•	Date
-•	Location
-•	Gender
-•	Color
+      Used Filters: Filters allow users to perform dynamic analysis without modifying reports.
+      •	Category
+      •	Season
+      •	Date
+      •	Location
+      •	Gender
+      •	Color
 
-Filters allow users to perform dynamic analysis without modifying reports.
 # Business Benefit
 Management can instantly analyze:
 •	Specific regions
@@ -221,7 +199,7 @@ Management can instantly analyze:
 # 18. Forecasting and Prediction
 Based on historical trends:
 # Revenue Forecast
-# If current growth continues:
+If current growth continues:
     Year	           Predicted Revenue
     Current           	$57.6K
     Next Year	          $65K - $70K
